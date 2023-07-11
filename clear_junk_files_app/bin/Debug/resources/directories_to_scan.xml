@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<Systems>
+  <System directory_to_scan="C:\Users\Administrator\AppData\Local\Temp" />
+  <System directory_to_scan="C:\Users\Administrator\AppData\Roaming\IDM\DwnlData\Administrator" />
+  <System directory_to_scan="C:\Windows\Temp" />
+  <System directory_to_scan="C:\Windows\Logs" />
+  <System directory_to_scan="C:\Windows\ServiceProfiles\LocalService\AppData\Local\Temp" />
+  <System directory_to_scan="C:\Windows\ServiceProfiles\NetworkService\AppData\Local\Temp" /> 
+</Systems>
